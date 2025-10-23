@@ -1,1 +1,1 @@
-// kode sensor B baru
+// kode sensor B untuk merge test
