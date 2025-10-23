@@ -1,1 +1,4 @@
-int main() { return 0; }
+int main() 
+printf("Sensor initialized...\n");
+
+{ return 0; }
