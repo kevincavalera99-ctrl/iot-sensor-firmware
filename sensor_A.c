@@ -1,1 +1,1 @@
-// kode sensor A
+// kode sensor A baru
